@@ -1,0 +1,551 @@
+{
+  "description": "tarot cards and basic information about them, as well as references to corresponding scans",
+  "cards": [
+    {
+      "name": "愚者",
+      "number": "0",
+      "arcana": "Major Arcana",
+      "suit": null,
+      "img": "m00.jpg"
+    },
+    {
+      "name": "魔术师",
+      "number": "1",
+      "arcana": "Major Arcana",
+      "suit": null,
+      "img": "m01.jpg"
+    },
+    {
+      "name": "女祭司",
+      "number": "2",
+      "arcana": "Major Arcana",
+      "suit": null,
+      "img": "m02.jpg"
+    },
+    {
+      "name": "女皇",
+      "number": "3",
+      "arcana": "Major Arcana",
+      "suit": null,
+      "img": "m03.jpg"
+    },
+    {
+      "name": "皇帝",
+      "number": "4",
+      "arcana": "Major Arcana",
+      "suit": null,
+      "img": "m04.jpg"
+    },
+    {
+      "name": "教皇",
+      "number": "5",
+      "arcana": "Major Arcana",
+      "suit": null,
+      "img": "m05.jpg"
+    },
+    {
+      "name": "恋人",
+      "number": "6",
+      "arcana": "Major Arcana",
+      "suit": null,
+      "img": "m06.jpg"
+    },
+    {
+      "name": "战车",
+      "number": "7",
+      "arcana": "Major Arcana",
+      "suit": null,
+      "img": "m07.jpg"
+    },
+    {
+      "name": "力量",
+      "number": "8",
+      "arcana": "Major Arcana",
+      "suit": null,
+      "img": "m08.jpg"
+    },
+    {
+      "name": "隐士",
+      "number": "9",
+      "arcana": "Major Arcana",
+      "suit": null,
+      "img": "m09.jpg"
+    },
+    {
+      "name": "命运之轮",
+      "number": "10",
+      "arcana": "Major Arcana",
+      "suit": null,
+      "img": "m10.jpg"
+    },
+    {
+      "name": "正义",
+      "number": "11",
+      "arcana": "Major Arcana",
+      "suit": null,
+      "img": "m11.jpg"
+    },
+    {
+      "name": "倒吊人",
+      "number": "12",
+      "arcana": "Major Arcana",
+      "suit": null,
+      "img": "m12.jpg"
+    },
+    {
+      "name": "死神",
+      "number": "13",
+      "arcana": "Major Arcana",
+      "suit": null,
+      "img": "m13.jpg"
+    },
+    {
+      "name": "节制",
+      "number": "14",
+      "arcana": "Major Arcana",
+      "suit": null,
+      "img": "m14.jpg"
+    },
+    {
+      "name": "恶魔",
+      "number": "15",
+      "arcana": "Major Arcana",
+      "suit": null,
+      "img": "m15.jpg"
+    },
+    {
+      "name": "高塔",
+      "number": "16",
+      "arcana": "Major Arcana",
+      "suit": null,
+      "img": "m16.jpg"
+    },
+    {
+      "name": "星星",
+      "number": "17",
+      "arcana": "Major Arcana",
+      "suit": null,
+      "img": "m17.jpg"
+    },
+    {
+      "name": "月亮",
+      "number": "18",
+      "arcana": "Major Arcana",
+      "suit": null,
+      "img": "m18.jpg"
+    },
+    {
+      "name": "太阳",
+      "number": "19",
+      "arcana": "Major Arcana",
+      "suit": null,
+      "img": "m19.jpg"
+    },
+    {
+      "name": "审判",
+      "number": "20",
+      "arcana": "Major Arcana",
+      "suit": null,
+      "img": "m20.jpg"
+    },
+    {
+      "name": "世界",
+      "number": "21",
+      "arcana": "Major Arcana",
+      "suit": null,
+      "img": "m21.jpg"
+    },
+    {
+      "name": "圣杯Ace",
+      "number": "1",
+      "arcana": "Minor Arcana",
+      "suit": "Cups",
+      "img": "c01.jpg"
+    },
+    {
+      "name": "圣杯二",
+      "number": "2",
+      "arcana": "Minor Arcana",
+      "suit": "Cups",
+      "img": "c02.jpg"
+    },
+    {
+      "name": "圣杯三",
+      "number": "3",
+      "arcana": "Minor Arcana",
+      "suit": "Cups",
+      "img": "c03.jpg"
+    },
+    {
+      "name": "圣杯四",
+      "number": "4",
+      "arcana": "Minor Arcana",
+      "suit": "Cups",
+      "img": "c04.jpg"
+    },
+    {
+      "name": "圣杯五",
+      "number": "5",
+      "arcana": "Minor Arcana",
+      "suit": "Cups",
+      "img": "c05.jpg"
+    },
+    {
+      "name": "圣杯六",
+      "number": "6",
+      "arcana": "Minor Arcana",
+      "suit": "Cups",
+      "img": "c06.jpg"
+    },
+    {
+      "name": "圣杯七",
+      "number": "7",
+      "arcana": "Minor Arcana",
+      "suit": "Cups",
+      "img": "c07.jpg"
+    },
+    {
+      "name": "圣杯八",
+      "number": "8",
+      "arcana": "Minor Arcana",
+      "suit": "Cups",
+      "img": "c08.jpg"
+    },
+    {
+      "name": "圣杯九",
+      "number": "9",
+      "arcana": "Minor Arcana",
+      "suit": "Cups",
+      "img": "c09.jpg"
+    },
+    {
+      "name": "圣杯十",
+      "number": "10",
+      "arcana": "Minor Arcana",
+      "suit": "Cups",
+      "img": "c10.jpg"
+    },
+    {
+      "name": "圣杯侍从",
+      "number": "11",
+      "arcana": "Minor Arcana",
+      "suit": "Cups",
+      "img": "c11.jpg"
+    },
+    {
+      "name": "圣杯骑士",
+      "number": "12",
+      "arcana": "Minor Arcana",
+      "suit": "Cups",
+      "img": "c12.jpg"
+    },
+    {
+      "name": "圣杯王后",
+      "number": "13",
+      "arcana": "Minor Arcana",
+      "suit": "Cups",
+      "img": "c13.jpg"
+    },
+    {
+      "name": "圣杯国王",
+      "number": "14",
+      "arcana": "Minor Arcana",
+      "suit": "Cups",
+      "img": "c14.jpg"
+    },
+    {
+      "name": "宝剑Ace",
+      "number": "1",
+      "arcana": "Minor Arcana",
+      "suit": "Swords",
+      "img": "s01.jpg"
+    },
+    {
+      "name": "宝剑二",
+      "number": "2",
+      "arcana": "Minor Arcana",
+      "suit": "Swords",
+      "img": "s02.jpg"
+    },
+    {
+      "name": "宝剑三",
+      "number": "3",
+      "arcana": "Minor Arcana",
+      "suit": "Swords",
+      "img": "s03.jpg"
+    },
+    {
+      "name": "宝剑四",
+      "number": "4",
+      "arcana": "Minor Arcana",
+      "suit": "Swords",
+      "img": "s04.jpg"
+    },
+    {
+      "name": "宝剑五",
+      "number": "5",
+      "arcana": "Minor Arcana",
+      "suit": "Swords",
+      "img": "s05.jpg"
+    },
+    {
+      "name": "宝剑六",
+      "number": "6",
+      "arcana": "Minor Arcana",
+      "suit": "Swords",
+      "img": "s06.jpg"
+    },
+    {
+      "name": "宝剑七",
+      "number": "7",
+      "arcana": "Minor Arcana",
+      "suit": "Swords",
+      "img": "s07.jpg"
+    },
+    {
+      "name": "宝剑八",
+      "number": "8",
+      "arcana": "Minor Arcana",
+      "suit": "Swords",
+      "img": "s08.jpg"
+    },
+    {
+      "name": "宝剑九",
+      "number": "9",
+      "arcana": "Minor Arcana",
+      "suit": "Swords",
+      "img": "s09.jpg"
+    },
+    {
+      "name": "宝剑十",
+      "number": "10",
+      "arcana": "Minor Arcana",
+      "suit": "Swords",
+      "img": "s10.jpg"
+    },
+    {
+      "name": "宝剑侍从",
+      "number": "11",
+      "arcana": "Minor Arcana",
+      "suit": "Swords",
+      "img": "s11.jpg"
+    },
+    {
+      "name": "宝剑骑士",
+      "number": "12",
+      "arcana": "Minor Arcana",
+      "suit": "Swords",
+      "img": "s12.jpg"
+    },
+    {
+      "name": "宝剑王后",
+      "number": "13",
+      "arcana": "Minor Arcana",
+      "suit": "Swords",
+      "img": "s13.jpg"
+    },
+    {
+      "name": "宝剑国王",
+      "number": "14",
+      "arcana": "Minor Arcana",
+      "suit": "Swords",
+      "img": "s14.jpg"
+    },
+    {
+      "name": "权杖Ace",
+      "number": "1",
+      "arcana": "Minor Arcana",
+      "suit": "Wands",
+      "img": "w01.jpg"
+    },
+    {
+      "name": "权杖二",
+      "number": "2",
+      "arcana": "Minor Arcana",
+      "suit": "Wands",
+      "img": "w02.jpg"
+    },
+    {
+      "name": "权杖三",
+      "number": "3",
+      "arcana": "Minor Arcana",
+      "suit": "Wands",
+      "img": "w03.jpg"
+    },
+    {
+      "name": "权杖四",
+      "number": "4",
+      "arcana": "Minor Arcana",
+      "suit": "Wands",
+      "img": "w04.jpg"
+    },
+    {
+      "name": "权杖五",
+      "number": "5",
+      "arcana": "Minor Arcana",
+      "suit": "Wands",
+      "img": "w05.jpg"
+    },
+    {
+      "name": "权杖六",
+      "number": "6",
+      "arcana": "Minor Arcana",
+      "suit": "Wands",
+      "img": "w06.jpg"
+    },
+    {
+      "name": "权杖七",
+      "number": "7",
+      "arcana": "Minor Arcana",
+      "suit": "Wands",
+      "img": "w07.jpg"
+    },
+    {
+      "name": "权杖八",
+      "number": "8",
+      "arcana": "Minor Arcana",
+      "suit": "Wands",
+      "img": "w08.jpg"
+    },
+    {
+      "name": "权杖九",
+      "number": "9",
+      "arcana": "Minor Arcana",
+      "suit": "Wands",
+      "img": "w09.jpg"
+    },
+    {
+      "name": "权杖十",
+      "number": "10",
+      "arcana": "Minor Arcana",
+      "suit": "Wands",
+      "img": "w10.jpg"
+    },
+    {
+      "name": "权杖侍从",
+      "number": "11",
+      "arcana": "Minor Arcana",
+      "suit": "Wands",
+      "img": "w11.jpg"
+    },
+    {
+      "name": "权杖骑士",
+      "number": "12",
+      "arcana": "Minor Arcana",
+      "suit": "Wands",
+      "img": "w12.jpg"
+    },
+    {
+      "name": "权杖王后",
+      "number": "13",
+      "arcana": "Minor Arcana",
+      "suit": "Wands",
+      "img": "w13.jpg"
+    },
+    {
+      "name": "权杖国王",
+      "number": "14",
+      "arcana": "Minor Arcana",
+      "suit": "Wands",
+      "img": "w14.jpg"
+    },
+    {
+      "name": "星币Ace",
+      "number": "1",
+      "arcana": "Minor Arcana",
+      "suit": "Pentacles",
+      "img": "p01.jpg"
+    },
+    {
+      "name": "星币二",
+      "number": "2",
+      "arcana": "Minor Arcana",
+      "suit": "Pentacles",
+      "img": "p02.jpg"
+    },
+    {
+      "name": "星币三",
+      "number": "3",
+      "arcana": "Minor Arcana",
+      "suit": "Pentacles",
+      "img": "p03.jpg"
+    },
+    {
+      "name": "星币四",
+      "number": "4",
+      "arcana": "Minor Arcana",
+      "suit": "Pentacles",
+      "img": "p04.jpg"
+    },
+    {
+      "name": "星币五",
+      "number": "5",
+      "arcana": "Minor Arcana",
+      "suit": "Pentacles",
+      "img": "p05.jpg"
+    },
+    {
+      "name": "星币六",
+      "number": "6",
+      "arcana": "Minor Arcana",
+      "suit": "Pentacles",
+      "img": "p06.jpg"
+    },
+    {
+      "name": "星币七",
+      "number": "7",
+      "arcana": "Minor Arcana",
+      "suit": "Pentacles",
+      "img": "p07.jpg"
+    },
+    {
+      "name": "星币八",
+      "number": "8",
+      "arcana": "Minor Arcana",
+      "suit": "Pentacles",
+      "img": "p08.jpg"
+    },
+    {
+      "name": "星币九",
+      "number": "9",
+      "arcana": "Minor Arcana",
+      "suit": "Pentacles",
+      "img": "p09.jpg"
+    },
+    {
+      "name": "星币十",
+      "number": "10",
+      "arcana": "Minor Arcana",
+      "suit": "Pentacles",
+      "img": "p10.jpg"
+    },
+    {
+      "name": "星币侍从",
+      "number": "11",
+      "arcana": "Minor Arcana",
+      "suit": "Pentacles",
+      "img": "p11.jpg"
+    },
+    {
+      "name": "星币骑士",
+      "number": "12",
+      "arcana": "Minor Arcana",
+      "suit": "Pentacles",
+      "img": "p12.jpg"
+    },
+    {
+      "name": "星币王后",
+      "number": "13",
+      "arcana": "Minor Arcana",
+      "suit": "Pentacles",
+      "img": "p13.jpg"
+    },
+    {
+      "name": "星币国王",
+      "number": "14",
+      "arcana": "Minor Arcana",
+      "suit": "Pentacles",
+      "img": "p14.jpg"
+    }
+  ]
+}

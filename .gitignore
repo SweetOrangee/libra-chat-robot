@@ -1,0 +1,6 @@
+**/__pycache__
+log
+config/*.json
+!config/*_template.json
+*.jpg
+.env.prod

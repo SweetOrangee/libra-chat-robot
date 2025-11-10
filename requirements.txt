@@ -1,0 +1,4 @@
+nonebot==1.9.1
+openai==2.7.1
+Pillow==12.0.0
+dashscope==1.24.9

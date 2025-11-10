@@ -1,0 +1,10 @@
+{
+  "models": {
+    "test-model": {
+      "model_name": "test-model",
+      "api_key": "your-api-key", 
+      "base_url": "https://api.openai.com/v1"
+    }
+  },
+  "default_model": "test-model"
+}
